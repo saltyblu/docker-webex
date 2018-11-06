@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-docker build -t webex .
+docker build -t urlaub/webex .
 

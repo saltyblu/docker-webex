@@ -10,4 +10,4 @@ docker run -ti \
     --privileged \
     --volume /dev/snd:/dev/snd \
     --volume /tmp/.X11-unix:/tmp/.X11-unix \
-    webex "/usr/bin/firefox"
+    urlaub/webex "/usr/bin/firefox"
