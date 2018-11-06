@@ -2,13 +2,7 @@
 
 ## Setup
 
-first build the container locally with buld.sh
-
-```
-./build.sh
-```
-
-### execute webex.sh to start the container
+execute webex.sh to start the container
 
 ```
 ./webex.sh
